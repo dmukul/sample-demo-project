@@ -1,2 +1,6 @@
 GIT DIFF
 
+this is to check git diff --cached
+
+
+this is commit shortcut
