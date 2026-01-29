@@ -1,21 +1,2 @@
-Namaste !!! welcome aboard
-We will be covering greetings in different languages:
-1)Sanskrit
-2) Hindi
-3)Marathi
-4)Punjabi
-5)English
-6)Russian
-7)Japanese
-8)Spanish
-9)Hebrew
-10)Chinese
-Hello ,we will be coving greeting in english
+GIT DIFF
 
-1)Hello is greeting in english.
-
-2)Hello there is greeting in british english.
-
-3)Hello mate is greeting in Australian english.
-
-4)Put it there in American english.
